@@ -14,8 +14,7 @@
 # Version:			0.1
 # Date:				09/01/2015
 
-import time
-import os
+import time,os
 
 #Function to clear the screen
 def clear():
@@ -28,6 +27,4 @@ print "Version 0.1			  bill@itechtrade.co.uk"
 time.sleep(3)
 
 clear()
-print "What now?"
-time.sleep(1)
-clear()
+print "Would you like to [A]dd, [S]earch, e[X]port, or [E]xit?"
