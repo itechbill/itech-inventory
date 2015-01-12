@@ -26,6 +26,17 @@ command = raw_input("Would you like to [A]dd, [S]earch, e[X]port, or [E]xit? ")
 
 # if command == A
 # bring up blank product card with cursor at first field
-# ask to save changes 
-#
-#
+# ask to save changes when complete
+
+# if command == S
+# bring up search card and select field
+# search results return quickly
+
+# if command == X
+# choose file format
+# choose save location
+
+# if command == E
+# save the stock file
+# close the stock file
+# close the program
