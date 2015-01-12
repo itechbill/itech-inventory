@@ -13,11 +13,19 @@ import time,os,csv
 def clear():
 	os.system('clear')
 
-#Greeting
+#Greet and load stock file
+clear()
 print "Welcome to the iTECH Trade Inventory Management System."
 time.sleep(1.5)
 print "Version 0.1			  bill@itechtrade.co.uk"
 time.sleep(3)
-
 clear()
-print "Would you like to [A]dd, [S]earch, e[X]port, or [E]xit?"
+
+#Ask user for their input
+command = raw_input("Would you like to [A]dd, [S]earch, e[X]port, or [E]xit? ")
+
+# if command == A
+# bring up blank product card with cursor at first field
+# ask to save changes 
+#
+#
