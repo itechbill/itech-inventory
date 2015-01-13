@@ -7,7 +7,7 @@
 # Version:			0.1
 # Date:				09/01/2015
 
-import time,os,csv
+import time,os,csv,string,itertools		# For sleep, clear, list, separation, list handling
 
 #Function to clear the screen
 def clear():
@@ -20,6 +20,13 @@ time.sleep(1.5)
 print "Version 0.1			  bill@itechtrade.co.uk"
 time.sleep(3)
 clear()
+
+while True:
+   try:
+      database = csv.DictReader(open("stock.csv", "rb"), delimiter=",", quotechar='"')
+      break
+   except:
+      print "Please ensure that a stock inventory file is located in this directory with the name stock.csv"
 
 #Ask user for their input
 command = raw_input("Would you like to [A]dd, [S]earch, e[X]port, or [E]xit? ")
