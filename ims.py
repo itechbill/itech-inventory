@@ -1,17 +1,18 @@
 # Application:		iTECH Trade Inventory Management System
-# 					inventory.py
-#					Manage warehouse inventory including stock
-#					quantity, location, sales info etc.
+# 				   	inventory.py
+#				   	Manage warehouse inventory including stock
+#				   	quantity, location, sales info etc.
 # Author:			Bill O'Dwyer
-# email:			bill@itechtrade.co.uk
+# email:			   bill@itechtrade.co.uk
 # Version:			0.1
 # Date:				09/01/2015
 
-import time,os,csv,string,itertools		# For sleep, clear, list, separation, list handling
+import time,os,csv,string,itertools		      # For sleep, clear, list, separation, list handling
 
 #Function to clear the screen
 def clear():
 	os.system('clear')
+
 
 #Greet and load stock file
 clear()
@@ -20,6 +21,7 @@ time.sleep(1.5)
 print "Version 0.1			  bill@itechtrade.co.uk"
 time.sleep(3)
 clear()
+
 
 #Open stock database
 while True:
@@ -43,14 +45,37 @@ ntsList = []				# Notes
 
 
 #Ask user for their input
-command = raw_input("Would you like to [A]dd, [S]earch, e[X]port, or [E]xit? ")
+while True:
+   command = raw_input("Would you like to [A]dd, [S]earch, e[X]port, or [E]xit? ")
+
+# Multiple responses possible, allows for more flexibility
+   responseList = ["A","a","Add","add","S","s","Search","search","X","x","Export","export","E","e","Exit","exit"]
+   AresponseList = ["A","a","Add","add"]
+   SresponseList = ["S","s","Search","search"]
+   XresponseList = ["X","x","Export","export"]
+   EresponseList = ["E","e","Exit","exit"]
+
 
 # If the user's response throws an error
-#   if query not in responseList:
-#      print "Invalid response, please try again."
-#      print
-#   else:
-#      break
+   if command not in responseList:
+      print "Invalid response, please try again."
+      print
+   elif command in AresponseList:
+      print "Add."
+      print "Thank you."
+      break
+   elif command in SresponseList:
+      print "Add."
+      print "Thank you."
+      break
+   elif command in XresponseList:
+      print "Add."
+      print "Thank you."
+      break
+   elif command in EresponseList:
+      print "Add."
+      print "Thank you."
+      break
 
 # if command == A
 # bring up blank product card with cursor at first field
