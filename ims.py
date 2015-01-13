@@ -21,15 +21,36 @@ print "Version 0.1			  bill@itechtrade.co.uk"
 time.sleep(3)
 clear()
 
+#Open stock database
 while True:
    try:
-      database = csv.DictReader(open("stock.csv", "rb"), delimiter=",", quotechar='"')
+      database = csv.DictReader(open("stock.csv", "rb"), delimiter="\t", quotechar='"')
       break
    except:
       print "Please ensure that a stock inventory file is located in this directory with the name stock.csv"
 
+
+# Create empty lists for
+mfgList = []				# Manufacturer
+numList = []				# Product Number
+qtyList = []				# Quantity
+desList = []				# Description
+locList = []				# Location
+lslList = []				# Last sale
+lcsList = []				# Last customer
+lprList = []				# Last price
+ntsList = []				# Notes
+
+
 #Ask user for their input
 command = raw_input("Would you like to [A]dd, [S]earch, e[X]port, or [E]xit? ")
+
+# If the user's response throws an error
+#   if query not in responseList:
+#      print "Invalid response, please try again."
+#      print
+#   else:
+#      break
 
 # if command == A
 # bring up blank product card with cursor at first field
