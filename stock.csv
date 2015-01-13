@@ -1,61 +1,61 @@
-										
-	Manufacturer	Product Number	Quantity	Condition	Description	Location	Last Sale	Last Customer	Last Price	Notes
-	HP	411273-002	17	Used	Modular PDU extension bar (single strip)	Shelf 1				
-	Hitachi	5529225-A	2	NOB	USP-V FSW Controller	Shelf 1				
-	Hitachi	5529225-A	2	NIB	USP-V FSW Controller	Shelf 1				
-	HP	AT492AV	2	NOB	HP 6000 SFF Pro	Shelf 1				Possibly lacking RAM
-	Microsoft	D66-00076	8	NOB	USB/PS2 Mouse	Shelf 1				
-	Ericsson	HRY 102 05/3 R1C	2	NOB	SMU 8x2	Shelf 1				
-	Ericsson	HRY102 05/3	6	NOB	SMU 16X2 	Shelf 1				
-	HP	J9380A	2	NOB	MAP-320R	Shelf 1				MSM310, Box contents are a mess
-	HP	J9401A	250	NOB	Antennae	Shelf 1				
-	HP	KV494ET	1	NOB	HP dc5800	Shelf 1				No RAM
-	HP	RV724AV	1	NIB	HP xw4600	Shelf 1				
-										
-	Nortel	308181-AR25	1	NOB	Baystack 450-24T w/ UK power cord	Shelf 2				
-	HP	411273-002	33	Used	Modular PDU extension bar (single strip)	Shelf 2				
-	HP	411273-002	19	Used	Modular PDU extension bar (dual strip)	Shelf 2				
-	Nortel	AA0020058-E6	1	NOB	Power Cord 13A/230V, UK & Ireland	Shelf 2				
-	Nortel	AA0020058-E6	8	NIB	Power Cord 13A/230V, UK & Ireland	Shelf 2				
-	Nortel	AL4500A01-E6	2	NOB	4526FX ERS	Shelf 2				Damaged box
-	Nortel	AL4500C06-E6	1	NOB	4526GTX ERS	Shelf 2				Damaged box
-	Nortel	CV0011042	2	NOB	ARN ethernet & 7-serial expansion	Shelf 2				
-	Nortel	CV1001004	1	NIB	ARN ethernet base unit	Shelf 2				
-	Nortel	DS1404065-E5	1	NIB	8692 Switch fabric/CPU	Shelf 2				
-	Nortel	DS1404110-E6	2	NIB	8648GTRS ERS	Shelf 2				
-	Nortel	DS1405012-E5	2	NIB	8005AC 100-240 VAC PSU	Shelf 2				
-	Nortel	DS1411017-E6	2	NIB	8010 CMHS fan tray	Shelf 2				
-	HP	EF227A4	3	NIB	20.1” monitor LP2065 	Shelf 2				
-	Oki	ML-280E	9	NIB	Oki Microline 280 Elite 9-pin dot matrix printer	Shelf 2				Minor damage to some boxes
-	Nortel	N0049119	3	NOB	Ferrite bead with clamp	Shelf 2				
-	Nortel	NT5K02QC	2	Used	FALC NMW network card	Shelf 2				Inside MG1000
-	Nortel	NT8D02HA	2	Used	Digital Line Card XDLC	Shelf 2				Inside MG1000
-	Nortel	NTAK20BD	1	Used	Clock controller daughterboard	Shelf 2				
-	Nortel	NTBK50AA	1	Used	2Mb PRI card w/ NTBK51AA	Shelf 2				Inside MG1000
-	Nortel	NTBK50AA	1	Used	2mb PRI card w/ NTBK51AA, NTAK20BD	Shelf 2				Inside MG1000
-	Nortel	NTBK51AA	1	Used	D-Channel daughterboard	Shelf 2				
-	Nortel	NTDK48BAE6	4	NIB	Cable kit	Shelf 2				N006774, N0111153, A0783105, N0106994, N0106999
-	Nortel	NTDU14DA	7	Used	Media Gateway Expansion Chassis	Shelf 2				
-	Nortel	NTDU14DA	2	NOB	Media Gateway Expansion Chassis	Shelf 2				
-	Nortel	NTDW12AA	1	NIB	Clock controller daughterboard	Shelf 2				
-	Nortel	NTDW60BA	1	Used	Media Gateway controller card w/ NTDW64AA + NTDW62BA	Shelf 2				Inside MG1000
-	Nortel	NTDW6105E5	9	NIB	CP-PM signalling server HDD kit	Shelf 2				
-	Nortel	NTDW6105E5	3	NOB	CP-PM signalling server HDD kit	Shelf 2				
-	Nortel	NTDW61BA	4	Used	CS1000 CP-PM, 1.4GHz Pentium M	Shelf 2				Inside MG1000
-	Nortel	NTDW62AA	4	NIB	MGC-DSP daughterboard 32	Shelf 2				
-	Nortel	NTDW79AA	2	Used	Universal Digital Trunk UDT – T1 Release	Shelf 2				Inside MG1000
-	Nortel	NTDW79AA	2	Used	Universal Digital Trunk UDT w/ NTDW12AA	Shelf 2				Inside MG1000
-	Nortel	NTDW79AA	1	NIB	Universal Digital Trunk UDT – T1 Release	Shelf 2				Append E5
-	Nortel	NTDW98AA	4	Used	Media Gateway Controller w/ NTDW64AA, NTDW62BA	Shelf 2				Inside MG1000
-	Nortel	NTDW98AA	1	NIB	Media Gateway Controller w/ NTDW64AA, NTDW62BA	Shelf 2				Append E2
-	Nortel	NTDW99AA	1	Used	CP-PM Call Server Processor w/ metal faceplate	Shelf 2				Append E1
-	Nortel	NTDW99AA	1	NIB	CP-PM Call Server Processor w/ metal faceplate	Shelf 2				Append E5
-	Nortel	NTRB18DA	1	Used	Media Gateway Call Pilot 32 DS30 Card	Shelf 2				Inside MG1000
-	Nortel	NTTQ33BA	3	NIB	Desktop charger UK AC adapter	Shelf 2				
-	Nortel	NTTQ33EA	3	NIB	Phone charging stand	Shelf 2				
-	Nortel	NTTQ37EA	3	NIB	4025 DECT handset kit	Shelf 2				
-	Nortel	NTTQ81EA	9	NIB	4027 DECT handset	Shelf 2				
-	Nortel	NTTQ8301	3	NIB	Desktop charger UK AC adapter	Shelf 2				
-	Nortel	NTTQ8305	6	NIB	Desktop charger UK AC adapter	Shelf 2				
-	Nortel	NTUB31ABE5	1	NOB	Call Pilot 600R Rack Mount Server	Shelf 2				
-	Nortel	NTVQ01AB	2	Used	Media Gateway Card 8	Shelf 2				Inside MG1000
+,,,,,,,,,,
+,Manufacturer,Product Number,Quantity,Condition,Description,Location,Last Sale,Last Customer,Last Price,Notes
+,HP,411273-002,17,Used,Modular PDU extension bar (single strip),Shelf 1,,,,
+,Hitachi,5529225-A,2,NOB,USP-V FSW Controller,Shelf 1,,,,
+,Hitachi,5529225-A,2,NIB,USP-V FSW Controller,Shelf 1,,,,
+,HP,AT492AV,2,NOB,HP 6000 SFF Pro,Shelf 1,,,,Possibly lacking RAM
+,Microsoft,D66-00076,8,NOB,USB/PS2 Mouse,Shelf 1,,,,
+,Ericsson,HRY 102 05/3 R1C,2,NOB,SMU 8x2,Shelf 1,,,,
+,Ericsson,HRY102 05/3,6,NOB,SMU 16X2 ,Shelf 1,,,,
+,HP,J9380A,2,NOB,MAP-320R,Shelf 1,,,,"MSM310, Box contents are a mess"
+,HP,J9401A,250,NOB,Antennae,Shelf 1,,,,
+,HP,KV494ET,1,NOB,HP dc5800,Shelf 1,,,,No RAM
+,HP,RV724AV,1,NIB,HP xw4600,Shelf 1,,,,
+,,,,,,,,,,
+,Nortel,308181-AR25,1,NOB,Baystack 450-24T w/ UK power cord,Shelf 2,,,,
+,HP,411273-002,33,Used,Modular PDU extension bar (single strip),Shelf 2,,,,
+,HP,411273-002,19,Used,Modular PDU extension bar (dual strip),Shelf 2,,,,
+,Nortel,AA0020058-E6,1,NOB,"Power Cord 13A/230V, UK & Ireland",Shelf 2,,,,
+,Nortel,AA0020058-E6,8,NIB,"Power Cord 13A/230V, UK & Ireland",Shelf 2,,,,
+,Nortel,AL4500A01-E6,2,NOB,4526FX ERS,Shelf 2,,,,Damaged box
+,Nortel,AL4500C06-E6,1,NOB,4526GTX ERS,Shelf 2,,,,Damaged box
+,Nortel,CV0011042,2,NOB,ARN ethernet & 7-serial expansion,Shelf 2,,,,
+,Nortel,CV1001004,1,NIB,ARN ethernet base unit,Shelf 2,,,,
+,Nortel,DS1404065-E5,1,NIB,8692 Switch fabric/CPU,Shelf 2,,,,
+,Nortel,DS1404110-E6,2,NIB,8648GTRS ERS,Shelf 2,,,,
+,Nortel,DS1405012-E5,2,NIB,8005AC 100-240 VAC PSU,Shelf 2,,,,
+,Nortel,DS1411017-E6,2,NIB,8010 CMHS fan tray,Shelf 2,,,,
+,HP,EF227A4,3,NIB,20.1” monitor LP2065 ,Shelf 2,,,,
+,Oki,ML-280E,9,NIB,Oki Microline 280 Elite 9-pin dot matrix printer,Shelf 2,,,,Minor damage to some boxes
+,Nortel,N0049119,3,NOB,Ferrite bead with clamp,Shelf 2,,,,
+,Nortel,NT5K02QC,2,Used,FALC NMW network card,Shelf 2,,,,Inside MG1000
+,Nortel,NT8D02HA,2,Used,Digital Line Card XDLC,Shelf 2,,,,Inside MG1000
+,Nortel,NTAK20BD,1,Used,Clock controller daughterboard,Shelf 2,,,,
+,Nortel,NTBK50AA,1,Used,2Mb PRI card w/ NTBK51AA,Shelf 2,,,,Inside MG1000
+,Nortel,NTBK50AA,1,Used,"2mb PRI card w/ NTBK51AA, NTAK20BD",Shelf 2,,,,Inside MG1000
+,Nortel,NTBK51AA,1,Used,D-Channel daughterboard,Shelf 2,,,,
+,Nortel,NTDK48BAE6,4,NIB,Cable kit,Shelf 2,,,,"N006774, N0111153, A0783105, N0106994, N0106999"
+,Nortel,NTDU14DA,7,Used,Media Gateway Expansion Chassis,Shelf 2,,,,
+,Nortel,NTDU14DA,2,NOB,Media Gateway Expansion Chassis,Shelf 2,,,,
+,Nortel,NTDW12AA,1,NIB,Clock controller daughterboard,Shelf 2,,,,
+,Nortel,NTDW60BA,1,Used,Media Gateway controller card w/ NTDW64AA + NTDW62BA,Shelf 2,,,,Inside MG1000
+,Nortel,NTDW6105E5,9,NIB,CP-PM signalling server HDD kit,Shelf 2,,,,
+,Nortel,NTDW6105E5,3,NOB,CP-PM signalling server HDD kit,Shelf 2,,,,
+,Nortel,NTDW61BA,4,Used,"CS1000 CP-PM, 1.4GHz Pentium M",Shelf 2,,,,Inside MG1000
+,Nortel,NTDW62AA,4,NIB,MGC-DSP daughterboard 32,Shelf 2,,,,
+,Nortel,NTDW79AA,2,Used,Universal Digital Trunk UDT – T1 Release,Shelf 2,,,,Inside MG1000
+,Nortel,NTDW79AA,2,Used,Universal Digital Trunk UDT w/ NTDW12AA,Shelf 2,,,,Inside MG1000
+,Nortel,NTDW79AA,1,NIB,Universal Digital Trunk UDT – T1 Release,Shelf 2,,,,
+,Nortel,NTDW98AA,4,Used,"Media Gateway Controller w/ NTDW64AA, NTDW62BA",Shelf 2,,,,Inside MG1000
+,Nortel,NTDW98AA,1,NIB,"Media Gateway Controller w/ NTDW64AA, NTDW62BA",Shelf 2,,,,
+,Nortel,NTDW99AA,1,Used,CP-PM Call Server Processor w/ metal faceplate,Shelf 2,,,,
+,Nortel,NTDW99AA,1,NIB,CP-PM Call Server Processor w/ metal faceplate,Shelf 2,,,,
+,Nortel,NTRB18DA,1,Used,Media Gateway Call Pilot 32 DS30 Card,Shelf 2,,,,Inside MG1000
+,Nortel,NTTQ33BA,3,NIB,Desktop charger UK AC adapter,Shelf 2,,,,
+,Nortel,NTTQ33EA,3,NIB,Phone charging stand,Shelf 2,,,,
+,Nortel,NTTQ37EA,3,NIB,4025 DECT handset kit,Shelf 2,,,,
+,Nortel,NTTQ81EA,9,NIB,4027 DECT handset,Shelf 2,,,,
+,Nortel,NTTQ8301,3,NIB,Desktop charger UK AC adapter,Shelf 2,,,,
+,Nortel,NTTQ8305,6,NIB,Desktop charger UK AC adapter,Shelf 2,,,,
+,Nortel,NTUB31ABE5,1,NOB,Call Pilot 600R Rack Mount Server,Shelf 2,,,,
+,Nortel,NTVQ01AB,2,Used,Media Gateway Card 8,Shelf 2,,,,Inside MG1000
