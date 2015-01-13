@@ -13,7 +13,6 @@ import time,os,csv,string,itertools		      # For sleep, clear, list, separation,
 def clear():
 	os.system('clear')
 
-
 #Greet and load stock file
 clear()
 print "Welcome to the iTECH Trade Inventory Management System."
@@ -22,28 +21,39 @@ print "Version 0.1			  bill@itechtrade.co.uk"
 time.sleep(3)
 clear()
 
-
 #Open stock database
 while True:
    try:
-      database = csv.DictReader(open("stock.csv", "rb"), delimiter="\t", quotechar='"')
+      database = csv.DictReader(open("stock.csv", "rb"), delimiter=",", quotechar='"')
       break
    except:
       print "Please ensure that a stock inventory file is located in this directory with the name stock.csv"
-
 
 # Create empty lists for
 mfgList = []				# Manufacturer
 numList = []				# Product Number
 qtyList = []				# Quantity
-desList = []				# Description
+cndList = []				# Condition
+desList = []            # Description
 locList = []				# Location
 lslList = []				# Last sale
 lcsList = []				# Last customer
 lprList = []				# Last price
 ntsList = []				# Notes
 
-
+# Scan file and put each field into a list
+for row in database:
+   mfgList.append(row.get("Manufacturer"))
+   numList.append(row.get("Product Number"))
+   qtyList.append(row.get("Quantity"))
+   cndList.append(row.get("Condition"))
+   desList.append(row.get("Description"))
+   locList.append(row.get("Location"))
+   lslList.append(row.get("Last Sale"))
+   lcsList.append(row.get("Last Customer"))
+   lprList.append(row.get("Last Price"))
+   ntsList.append(row.get("Notes"))
+   
 #Ask user for their input
 while True:
    command = raw_input("Would you like to [A]dd, [S]earch, e[X]port, or [E]xit? ")
@@ -55,8 +65,7 @@ while True:
    XresponseList = ["X","x","Export","export"]
    EresponseList = ["E","e","Exit","exit"]
 
-
-# If the user's response throws an error
+# If the user's response throws an error (and temporary command responses)
    if command not in responseList:
       print "Invalid response, please try again."
       print
