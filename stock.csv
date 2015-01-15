@@ -1,61 +1,96 @@
-,,,,,,,,,,
-,Manufacturer,Product Number,Quantity,Condition,Description,Location,Last Sale,Last Customer,Last Price,Notes
-,HP,411273-002,17,Used,Modular PDU extension bar (single strip),Shelf 1,,,,
-,Hitachi,5529225-A,2,NOB,USP-V FSW Controller,Shelf 1,,,,
-,Hitachi,5529225-A,2,NIB,USP-V FSW Controller,Shelf 1,,,,
-,HP,AT492AV,2,NOB,HP 6000 SFF Pro,Shelf 1,,,,Possibly lacking RAM
-,Microsoft,D66-00076,8,NOB,USB/PS2 Mouse,Shelf 1,,,,
-,Ericsson,HRY 102 05/3 R1C,2,NOB,SMU 8x2,Shelf 1,,,,
-,Ericsson,HRY102 05/3,6,NOB,SMU 16X2 ,Shelf 1,,,,
-,HP,J9380A,2,NOB,MAP-320R,Shelf 1,,,,"MSM310, Box contents are a mess"
-,HP,J9401A,250,NOB,Antennae,Shelf 1,,,,
-,HP,KV494ET,1,NOB,HP dc5800,Shelf 1,,,,No RAM
-,HP,RV724AV,1,NIB,HP xw4600,Shelf 1,,,,
-,,,,,,,,,,
-,Nortel,308181-AR25,1,NOB,Baystack 450-24T w/ UK power cord,Shelf 2,,,,
-,HP,411273-002,33,Used,Modular PDU extension bar (single strip),Shelf 2,,,,
-,HP,411273-002,19,Used,Modular PDU extension bar (dual strip),Shelf 2,,,,
-,Nortel,AA0020058-E6,1,NOB,"Power Cord 13A/230V, UK & Ireland",Shelf 2,,,,
-,Nortel,AA0020058-E6,8,NIB,"Power Cord 13A/230V, UK & Ireland",Shelf 2,,,,
-,Nortel,AL4500A01-E6,2,NOB,4526FX ERS,Shelf 2,,,,Damaged box
-,Nortel,AL4500C06-E6,1,NOB,4526GTX ERS,Shelf 2,,,,Damaged box
-,Nortel,CV0011042,2,NOB,ARN ethernet & 7-serial expansion,Shelf 2,,,,
-,Nortel,CV1001004,1,NIB,ARN ethernet base unit,Shelf 2,,,,
-,Nortel,DS1404065-E5,1,NIB,8692 Switch fabric/CPU,Shelf 2,,,,
-,Nortel,DS1404110-E6,2,NIB,8648GTRS ERS,Shelf 2,,,,
-,Nortel,DS1405012-E5,2,NIB,8005AC 100-240 VAC PSU,Shelf 2,,,,
-,Nortel,DS1411017-E6,2,NIB,8010 CMHS fan tray,Shelf 2,,,,
-,HP,EF227A4,3,NIB,20.1” monitor LP2065 ,Shelf 2,,,,
-,Oki,ML-280E,9,NIB,Oki Microline 280 Elite 9-pin dot matrix printer,Shelf 2,,,,Minor damage to some boxes
-,Nortel,N0049119,3,NOB,Ferrite bead with clamp,Shelf 2,,,,
-,Nortel,NT5K02QC,2,Used,FALC NMW network card,Shelf 2,,,,Inside MG1000
-,Nortel,NT8D02HA,2,Used,Digital Line Card XDLC,Shelf 2,,,,Inside MG1000
-,Nortel,NTAK20BD,1,Used,Clock controller daughterboard,Shelf 2,,,,
-,Nortel,NTBK50AA,1,Used,2Mb PRI card w/ NTBK51AA,Shelf 2,,,,Inside MG1000
-,Nortel,NTBK50AA,1,Used,"2mb PRI card w/ NTBK51AA, NTAK20BD",Shelf 2,,,,Inside MG1000
-,Nortel,NTBK51AA,1,Used,D-Channel daughterboard,Shelf 2,,,,
-,Nortel,NTDK48BAE6,4,NIB,Cable kit,Shelf 2,,,,"N006774, N0111153, A0783105, N0106994, N0106999"
-,Nortel,NTDU14DA,7,Used,Media Gateway Expansion Chassis,Shelf 2,,,,
-,Nortel,NTDU14DA,2,NOB,Media Gateway Expansion Chassis,Shelf 2,,,,
-,Nortel,NTDW12AA,1,NIB,Clock controller daughterboard,Shelf 2,,,,
-,Nortel,NTDW60BA,1,Used,Media Gateway controller card w/ NTDW64AA + NTDW62BA,Shelf 2,,,,Inside MG1000
-,Nortel,NTDW6105E5,9,NIB,CP-PM signalling server HDD kit,Shelf 2,,,,
-,Nortel,NTDW6105E5,3,NOB,CP-PM signalling server HDD kit,Shelf 2,,,,
-,Nortel,NTDW61BA,4,Used,"CS1000 CP-PM, 1.4GHz Pentium M",Shelf 2,,,,Inside MG1000
-,Nortel,NTDW62AA,4,NIB,MGC-DSP daughterboard 32,Shelf 2,,,,
-,Nortel,NTDW79AA,2,Used,Universal Digital Trunk UDT – T1 Release,Shelf 2,,,,Inside MG1000
-,Nortel,NTDW79AA,2,Used,Universal Digital Trunk UDT w/ NTDW12AA,Shelf 2,,,,Inside MG1000
-,Nortel,NTDW79AA,1,NIB,Universal Digital Trunk UDT – T1 Release,Shelf 2,,,,
-,Nortel,NTDW98AA,4,Used,"Media Gateway Controller w/ NTDW64AA, NTDW62BA",Shelf 2,,,,Inside MG1000
-,Nortel,NTDW98AA,1,NIB,"Media Gateway Controller w/ NTDW64AA, NTDW62BA",Shelf 2,,,,
-,Nortel,NTDW99AA,1,Used,CP-PM Call Server Processor w/ metal faceplate,Shelf 2,,,,
-,Nortel,NTDW99AA,1,NIB,CP-PM Call Server Processor w/ metal faceplate,Shelf 2,,,,
-,Nortel,NTRB18DA,1,Used,Media Gateway Call Pilot 32 DS30 Card,Shelf 2,,,,Inside MG1000
-,Nortel,NTTQ33BA,3,NIB,Desktop charger UK AC adapter,Shelf 2,,,,
-,Nortel,NTTQ33EA,3,NIB,Phone charging stand,Shelf 2,,,,
-,Nortel,NTTQ37EA,3,NIB,4025 DECT handset kit,Shelf 2,,,,
-,Nortel,NTTQ81EA,9,NIB,4027 DECT handset,Shelf 2,,,,
-,Nortel,NTTQ8301,3,NIB,Desktop charger UK AC adapter,Shelf 2,,,,
-,Nortel,NTTQ8305,6,NIB,Desktop charger UK AC adapter,Shelf 2,,,,
-,Nortel,NTUB31ABE5,1,NOB,Call Pilot 600R Rack Mount Server,Shelf 2,,,,
-,Nortel,NTVQ01AB,2,Used,Media Gateway Card 8,Shelf 2,,,,Inside MG1000
+Manufacturer,Product Number,Quantity,Condition,Description,Location,Last Sale,Last Customer,Last Price,Notes
+HP,411273-002,17,Used,Modular PDU extension bar (single strip),Shelf 1,,,,
+Hitachi,5529225-A,2,NOB,USP-V FSW Controller,Shelf 1,,,,
+Hitachi,5529225-A,2,NIB,USP-V FSW Controller,Shelf 1,,,,
+HP,AT492AV,3,NOB,HP 6000 SFF Pro,Shelf 1,,,,Possibly lacking RAM
+Microsoft,D66-00076,8,NOB,USB/PS2 Mouse,Shelf 1,,,,
+Ericsson,HRY 102 05/3 R1C,2,NOB,SMU 8x2,Shelf 1,,,,
+Ericsson,HRY102 05/3,6,NOB,SMU 16X2 ,Shelf 1,,,,
+HP,J9380A,2,NOB,MAP-320R,Shelf 1,,,,"MSM310, Box contents are a mess"
+HP,J9401A,250,NOB,Antennae,Shelf 1,,,,
+HP,KV494ET,1,NOB,HP dc5800,Shelf 1,,,,No RAM
+HP,RV724AV,1,NIB,HP xw4600,Shelf 1,,,,
+Nortel,308181-AR25,1,NOB,Baystack 450-24T w/ UK power cord,Shelf 2,,,,
+HP,411273-002,33,Used,Modular PDU extension bar (single strip),Shelf 2,,,,
+HP,411273-002,19,Used,Modular PDU extension bar (dual strip),Shelf 2,,,,
+Nortel,AA0020058-E6,1,NOB,"Power Cord 13A/230V, UK & Ireland",Shelf 2,,,,
+Nortel,AA0020058-E6,8,NIB,"Power Cord 13A/230V, UK & Ireland",Shelf 2,,,,
+Nortel,AL4500A01-E6,2,NOB,4526FX ERS,Shelf 2,,,,Damaged box
+Nortel,AL4500C06-E6,1,NOB,4526GTX ERS,Shelf 2,,,,Damaged box
+Nortel,CV0011042,2,NOB,ARN ethernet & 7-serial expansion,Shelf 2,,,,
+Nortel,CV1001004,1,NIB,ARN ethernet base unit,Shelf 2,,,,
+Nortel,DS1404065-E5,1,NIB,8692 Switch fabric/CPU,Shelf 2,,,,
+Nortel,DS1404110-E6,2,NIB,8648GTRS ERS,Shelf 2,,,,
+Nortel,DS1405012-E5,2,NIB,8005AC 100-240 VAC PSU,Shelf 2,,,,
+Nortel,DS1411017-E6,3,NIB,8010 CMHS fan tray,Shelf 2,,,,
+HP,EF227A4,3,NIB,20.1” monitor LP2065 ,Shelf 2,,,,
+Oki,ML-280E,9,NIB,Oki Microline 280 Elite 9-pin dot matrix printer,Shelf 2,,,,Minor damage to some boxes
+Nortel,N0049119,3,NOB,Ferrite bead with clamp,Shelf 2,,,,
+Nortel,NT5K02QC,2,Used,FALC NMW network card,Shelf 2,,,,Inside MG1000
+Nortel,NT8D02HA,2,Used,Digital Line Card XDLC,Shelf 2,,,,Inside MG1000
+Nortel,NTAK20BD,1,Used,Clock controller daughterboard,Shelf 2,,,,
+Nortel,NTBK50AA,1,Used,2Mb PRI card w/ NTBK51AA,Shelf 2,,,,Inside MG1000
+Nortel,NTBK51AA,1,Used,D-Channel daughterboard,Shelf 2,,,,
+Nortel,NTDK48BAE6,4,NIB,Cable kit,Shelf 2,,,,"N006774, N0111153, A0783105, N0106994, N0106999"
+Nortel,NTDU14DA,7,Used,Media Gateway Expansion Chassis,Shelf 2,,,,
+Nortel,NTDU14DA,2,NOB,Media Gateway Expansion Chassis,Shelf 2,,,,
+Nortel,NTDW12AA,1,NIB,Clock controller daughterboard,Shelf 2,,,,
+Nortel,NTDW60BA,1,Used,Media Gateway controller card w/ NTDW64AA + NTDW62BA,Shelf 2,,,,Inside MG1000
+Nortel,NTDW6105E5,9,NIB,CP-PM signalling server HDD kit,Shelf 2,,,,
+Nortel,NTDW6105E5,3,NOB,CP-PM signalling server HDD kit,Shelf 2,,,,
+Nortel,NTDW61BA,2,Used,"CS1000 CP-PM, 1.4GHz Pentium M",Shelf 2,,,,Inside MG1000
+Nortel,NTDW62AA,4,NIB,MGC-DSP daughterboard 32,Shelf 2,,,,
+Nortel,NTDW79AA,2,Used,Universal Digital Trunk UDT – T1 Release,Shelf 2,,,,Inside MG1000
+Nortel,NTDW79AA,1,NIB,Universal Digital Trunk UDT – T1 Release,Shelf 2,,,,
+Nortel,NTDW98AA,4,Used,"Media Gateway Controller w/ NTDW64AA, NTDW62BA",Shelf 2,,,,Inside MG1000
+Nortel,NTDW98AA,1,NIB,"Media Gateway Controller w/ NTDW64AA, NTDW62BA",Shelf 2,,,,
+Nortel,NTDW99AA,1,Used,CP-PM Call Server Processor w/ metal faceplate,Shelf 2,,,,
+Nortel,NTDW99AA,1,NIB,CP-PM Call Server Processor w/ metal faceplate,Shelf 2,,,,
+Nortel,NTRB18DA,1,Used,Media Gateway Call Pilot 32 DS30 Card,Shelf 2,,,,Inside MG1000
+Nortel,NTUB31ABE5,1,NOB,Call Pilot 600R Rack Mount Server,Shelf 2,,,,
+Nortel,NTVQ01AB,2,Used,Media Gateway Card 8,Shelf 2,,,,Inside MG1000
+Nortel,AL1001A14-E5,2,Used,5650TD ERS,Shelf 2,,,,No power cord
+Nortel,AL4500A05-E6,1,Used,4524TD ERS,Shelf 2,,,,No power cord
+Nortel,NTDU99AAE5,3,Used,IBM 1U x Series 306m Server,Shelf 2,,,,No HDDs
+HP,470063-959,1,Used,DL140 G2 Server,Shelf 2,,,,"3.4GHz, 2MB CPU; 2GB RAM"
+HP,012764-003,33,Used,Smart Array P400 SATA Raid Controller 512MB,Shelf 3,,,,
+HP,013224-001,9,Used,256MB Cache Memory for P212 P411 P410,Shelf 3,,,,
+HP,300588-002,7,Used,72GB Fiber Channel 15k Hard Drive,Shelf 3,,,,"9X5004-114, ST373454FC"
+HP,379820-B21,1,NIB,Rack Cable Management Velcro Clips,Shelf 3,,,,
+HP,404987-001,47,Used,HP Emulex LPe1105 FC,Shelf 3,,,,
+HP,407295-001,1,Used,BLC7000 Onboard admin sleeve,Shelf 3,,,,
+HP,407296-001,1,Used,BLC7000 Enclosure Management Module,Shelf 3,,,,
+HP,407681-001,38,Used,BL460c G1 Chassis,Shelf 3,,,,With motherboard
+HP,409513-B21,5,Used,4Gb VC-FC Module ,Shelf 3,,,,
+HP,411064-B21,4,NIB,P400/512 Controller ,Shelf 3,,,,
+HP,416583-001,15,Used,NC325m 1Gb quad Port Nic,Shelf 3,,,,
+HP,443527-B21,33,Used,BL680c G5 Chassis,Shelf 3,,,,With motherboard
+HP,444477-B21,2,NIB,BladeSystem c-Class .5m 10-GbE CX4 Cable Option ,Shelf 3,,,,
+HP,445976-001,56,Used,NC360M Dual Port 1Gbe Mezzanine,Shelf 3,,,,
+HP,447047-B21,28,Used,HP 1/10Gb-F VC-Enet Module ,Shelf 3,,,,
+HP,450251-001,124,Used,Intel Xeon 2.4GHz Quad-Core CPU,Shelf 3,,,,With heatsink
+HP,451785-002,11,Used,C7000 Fan module,Shelf 3,,,,"486206-001, T35696-HP"
+HP,459526-001,2,Used,C7000 Onboard admin module with KVM module,Shelf 3,,,,
+HP,507864-B21,9,Used,BL460c G6 Chassis,Shelf 3,,,,With motherboard
+HP,516914-B21,1,NIB,8-slot Small Form Factor Cage DL380 G6 Kit ,Shelf 3,,,,
+HP,A7446B,6,Used,SFP 4Gb SW Transceiver Module ,Shelf 3,,,,
+Nortel,AA1403005-E5,4,Used,Nortel branded 10Gigabit & STM64 SR XFP Transceiver 850nm ,Shelf 3,,,,
+HP,AA988A,1,NIB,MSA1500 Dual Channel SCSI I/O Module,Shelf 3,,,,
+HP,AE371A,1,Used,Brocade 4GB SAN Switch c-Class BladeSystem ,Shelf 3,,,,
+HP,AF072A,1,NIB,1U Universal Filler Panel,Shelf 3,,,,Pack of 10
+Avago,AFBR-720XPD2-HP1,13,Used,10GB 850nm XFP Tranceiver Module ,Shelf 3,,,,
+HP,AH235A ,2,Used,"RX2660 Base Server – 16GB RAM, 2x 1.6GHz CPU, 12 fans, 2x AD1946001",Shelf 3,,,,
+HP,AH235A ,2,Used,"RX2660 Base Server – 0GB RAM, 2x 1.6GHz CPU, 4 fans, 2x AD1946001, 1x AB545-6001",Shelf 3,,,,
+Hitachi,DKR2G-K30FC,3,Used,300GB Fiber Channel HDD 15000rpm,Shelf 3,,,,"5529293-B, 0B22159"
+Nortel,DS1402001-E5,4,Used,8010 Passport Chassis,Shelf 3,,,,
+Nortel,DS1404065-E5,8,Used,8692 Switch fabric/CPU,Shelf 3,,,,
+Nortel,DS1404097-E6,1,Used,8612XLRS XFP Switch,Shelf 3,,,,
+Nortel,DS1404110-E6,9,Used,8648GTRS ERS,Shelf 3,,,,
+Nortel,DS1405012-E5,3,Used,8005AC 100-240 VAC PSU,Shelf 3,,,,
+Nortel,DS1405017-E5,4,Used,Dual Input 8005 DC 1462W Power Supply ,Shelf 3,,,,
+Nortel,DS1411017-E6,4,Used,8010 CMHS fan tray,Shelf 3,,,,
+Finisar,FTLF8524P2BNV,12,Used,Finisar 4GFC FCAL/GbE SFP ,Shelf 3,,,,
+Finisar,FTLX851103-HP,5,Used,10Gb XFP 850nm module ,Shelf 3,,,,
+Finisar,FTLX8571D3BCL,2,Used,Finisar 10GB 850nm SFP+ ,Shelf 3,,,,
+Misc,n/a,1,Scrap,Assorted heatsinks,Shelf 3,,,,
+Seagate,ST3450856FC,90,Used,Cheetah 15k.6 450GB Fiber Channel Hard Drive,Shelf 3,,,,"5529294-A, 9CL004-036"
