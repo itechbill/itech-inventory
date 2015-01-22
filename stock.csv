@@ -23,13 +23,10 @@ Nortel,DS1404065-E5,1,NIB,8692 Switch fabric/CPU,Shelf 2,,,,
 Nortel,DS1404110-E6,2,NIB,8648GTRS ERS,Shelf 2,,,,
 Nortel,DS1405012-E5,2,NIB,8005AC 100-240 VAC PSU,Shelf 2,,,,
 Nortel,DS1411017-E6,3,NIB,8010 CMHS fan tray,Shelf 2,,,,
-HP,EF227A4,3,NIB,20.1” monitor LP2065 ,Shelf 2,,,,
-Oki,ML-280E,9,NIB,Oki Microline 280 Elite 9-pin dot matrix printer,Shelf 2,,,,Minor damage to some boxes
+Oki,ML-280E,8,NIB,Oki Microline 280 Elite 9-pin dot matrix printer,Shelf 2,,,,Minor damage to some boxes
 Nortel,N0049119,3,NOB,Ferrite bead with clamp,Shelf 2,,,,
 Nortel,NT5K02QC,2,Used,FALC NMW network card,Shelf 2,,,,Inside MG1000
 Nortel,NT8D02HA,2,Used,Digital Line Card XDLC,Shelf 2,,,,Inside MG1000
-Nortel,NTAK20BD,1,Used,Clock controller daughterboard,Shelf 2,,,,
-Nortel,NTBK50AA,1,Used,2Mb PRI card w/ NTBK51AA,Shelf 2,,,,Inside MG1000
 Nortel,NTBK51AA,1,Used,D-Channel daughterboard,Shelf 2,,,,
 Nortel,NTDK48BAE6,4,NIB,Cable kit,Shelf 2,,,,"N006774, N0111153, A0783105, N0106994, N0106999"
 Nortel,NTDU14DA,7,Used,Media Gateway Expansion Chassis,Shelf 2,,,,
@@ -80,16 +77,15 @@ HP,AE371A,1,Used,Brocade 4GB SAN Switch c-Class BladeSystem ,Shelf 3,,,,
 HP,AF072A,1,NIB,1U Universal Filler Panel,Shelf 3,,,,Pack of 10
 Avago,AFBR-720XPD2-HP1,13,Used,10GB 850nm XFP Tranceiver Module ,Shelf 3,,,,
 HP,AH235A ,2,Used,"RX2660 Base Server – 16GB RAM, 2x 1.6GHz CPU, 12 fans, 2x AD1946001",Shelf 3,,,,
-HP,AH235A ,2,Used,"RX2660 Base Server – 0GB RAM, 2x 1.6GHz CPU, 4 fans, 2x AD1946001, 1x AB545-6001",Shelf 3,,,,
+HP,AH235A ,1,Used,"RX2660 Base Server – 0GB RAM, 2x 1.6GHz CPU, 4 fans, 2x AD1946001, 1x AB545-6001",Shelf 3,,,,
 Hitachi,DKR2G-K30FC,3,Used,300GB Fiber Channel HDD 15000rpm,Shelf 3,,,,"5529293-B, 0B22159"
 Nortel,DS1402001-E5,4,Used,8010 Passport Chassis,Shelf 3,,,,
 Nortel,DS1404065-E5,8,Used,8692 Switch fabric/CPU,Shelf 3,,,,
-Nortel,DS1404097-E6,1,Used,8612XLRS XFP Switch,Shelf 3,,,,
 Nortel,DS1404110-E6,9,Used,8648GTRS ERS,Shelf 3,,,,
 Nortel,DS1405012-E5,3,Used,8005AC 100-240 VAC PSU,Shelf 3,,,,
 Nortel,DS1405017-E5,4,Used,Dual Input 8005 DC 1462W Power Supply ,Shelf 3,,,,
 Nortel,DS1411017-E6,4,Used,8010 CMHS fan tray,Shelf 3,,,,
-Finisar,FTLF8524P2BNV,12,Used,Finisar 4GFC FCAL/GbE SFP ,Shelf 3,,,,
+Finisar,FTLF8524P2BNV,6,Used,Finisar 4GFC FCAL/GbE SFP ,Shelf 3,,,,
 Finisar,FTLX851103-HP,5,Used,10Gb XFP 850nm module ,Shelf 3,,,,
 Finisar,FTLX8571D3BCL,2,Used,Finisar 10GB 850nm SFP+ ,Shelf 3,,,,
 Misc,n/a,1,Scrap,Assorted heatsinks,Shelf 3,,,,
